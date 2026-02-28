@@ -661,57 +661,17 @@
         },
         {
             "type": "Feature",
-            "id": "way/1443335827",
-            "properties": {
-                "timestamp": "2025-10-19T20:45:40Z",
-                "version": "1",
-                "changeset": "173510023",
-                "user": "Ozon OSM15",
-                "uid": "23041867",
-                "building": "yes",
-                "id": "way/1443335827"
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            49.8420578,
-                            53.473555
-                        ],
-                        [
-                            49.8420586,
-                            53.4734733
-                        ],
-                        [
-                            49.8421472,
-                            53.4734736
-                        ],
-                        [
-                            49.8421464,
-                            53.4735553
-                        ],
-                        [
-                            49.8420578,
-                            53.473555
-                        ]
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
             "id": "way/1481426299",
             "properties": {
-                "timestamp": "2026-02-21T14:53:13Z",
-                "version": "1",
-                "changeset": "178862839",
+                "timestamp": "2026-02-28T04:15:28Z",
+                "version": "2",
+                "changeset": "179156857",
                 "user": "donistr",
                 "uid": "23853009",
                 "addr:city": "Самара",
                 "addr:housenumber": "730",
+                "addr:place": "СНТ Жигули",
                 "addr:postcode": "443902",
-                "addr:street": "СНТ Жигули",
                 "building": "house",
                 "building:levels": "1",
                 "id": "way/1481426299"
@@ -748,15 +708,15 @@
             "type": "Feature",
             "id": "way/1481426300",
             "properties": {
-                "timestamp": "2026-02-21T14:53:13Z",
-                "version": "1",
-                "changeset": "178862839",
+                "timestamp": "2026-02-28T04:15:28Z",
+                "version": "2",
+                "changeset": "179156857",
                 "user": "donistr",
                 "uid": "23853009",
                 "addr:city": "Самара",
                 "addr:housenumber": "678",
+                "addr:place": "СНТ Жигули",
                 "addr:postcode": "443902",
-                "addr:street": "СНТ Жигули",
                 "building": "house",
                 "building:levels": "1",
                 "id": "way/1481426300"
@@ -793,15 +753,15 @@
             "type": "Feature",
             "id": "way/1481426301",
             "properties": {
-                "timestamp": "2026-02-21T14:53:13Z",
-                "version": "1",
-                "changeset": "178862839",
+                "timestamp": "2026-02-28T04:15:28Z",
+                "version": "2",
+                "changeset": "179156857",
                 "user": "donistr",
                 "uid": "23853009",
                 "addr:city": "Самара",
                 "addr:housenumber": "679",
+                "addr:place": "СНТ Жигули",
                 "addr:postcode": "443902",
-                "addr:street": "СНТ Жигули",
                 "building": "house",
                 "building:levels": "1",
                 "id": "way/1481426301"
@@ -838,15 +798,15 @@
             "type": "Feature",
             "id": "way/1481426302",
             "properties": {
-                "timestamp": "2026-02-21T14:53:13Z",
-                "version": "1",
-                "changeset": "178862839",
+                "timestamp": "2026-02-28T04:15:28Z",
+                "version": "2",
+                "changeset": "179156857",
                 "user": "donistr",
                 "uid": "23853009",
                 "addr:city": "Самара",
                 "addr:housenumber": "681",
+                "addr:place": "СНТ Жигули",
                 "addr:postcode": "СНТ Жигули",
-                "addr:street": "СНТ Жигули",
                 "building": "house",
                 "building:levels": "1",
                 "id": "way/1481426302"
@@ -883,15 +843,15 @@
             "type": "Feature",
             "id": "way/1481426303",
             "properties": {
-                "timestamp": "2026-02-21T14:53:13Z",
-                "version": "1",
-                "changeset": "178862839",
+                "timestamp": "2026-02-28T04:15:28Z",
+                "version": "2",
+                "changeset": "179156857",
                 "user": "donistr",
                 "uid": "23853009",
                 "addr:city": "Самара",
                 "addr:housenumber": "728",
+                "addr:place": "СНТ Жигули",
                 "addr:postcode": "443902",
-                "addr:street": "СНТ Жигули",
                 "building": "house",
                 "building:levels": "1",
                 "id": "way/1481426303"
@@ -928,15 +888,15 @@
             "type": "Feature",
             "id": "way/1481426304",
             "properties": {
-                "timestamp": "2026-02-21T14:53:13Z",
-                "version": "1",
-                "changeset": "178862839",
+                "timestamp": "2026-02-28T04:15:28Z",
+                "version": "2",
+                "changeset": "179156857",
                 "user": "donistr",
                 "uid": "23853009",
                 "addr:city": "Самара",
                 "addr:housenumber": "729",
+                "addr:place": "СНТ Жигули",
                 "addr:postcode": "443902",
-                "addr:street": "СНТ Жигули",
                 "building": "house",
                 "building:levels": "1",
                 "id": "way/1481426304"
@@ -973,15 +933,15 @@
             "type": "Feature",
             "id": "way/1481426305",
             "properties": {
-                "timestamp": "2026-02-21T14:53:13Z",
-                "version": "1",
-                "changeset": "178862839",
+                "timestamp": "2026-02-28T04:15:28Z",
+                "version": "2",
+                "changeset": "179156857",
                 "user": "donistr",
                 "uid": "23853009",
                 "addr:city": "Самара",
                 "addr:housenumber": "735",
+                "addr:place": "СНТ Жигули",
                 "addr:postcode": "443902",
-                "addr:street": "СНТ Жигули",
                 "building": "house",
                 "building:levels": "1",
                 "id": "way/1481426305"
@@ -1018,15 +978,15 @@
             "type": "Feature",
             "id": "way/1481426306",
             "properties": {
-                "timestamp": "2026-02-21T14:53:13Z",
-                "version": "1",
-                "changeset": "178862839",
+                "timestamp": "2026-02-28T04:15:28Z",
+                "version": "2",
+                "changeset": "179156857",
                 "user": "donistr",
                 "uid": "23853009",
                 "addr:city": "Самара",
                 "addr:housenumber": "736",
+                "addr:place": "СНТ Жигули",
                 "addr:postcode": "443902",
-                "addr:street": "СНТ Жигули",
                 "building": "house",
                 "building:levels": "1",
                 "id": "way/1481426306"
@@ -1063,15 +1023,15 @@
             "type": "Feature",
             "id": "way/1481426307",
             "properties": {
-                "timestamp": "2026-02-21T14:53:13Z",
-                "version": "1",
-                "changeset": "178862839",
+                "timestamp": "2026-02-28T04:15:28Z",
+                "version": "2",
+                "changeset": "179156857",
                 "user": "donistr",
                 "uid": "23853009",
                 "addr:city": "Самара",
                 "addr:housenumber": "726",
+                "addr:place": "СНТ Жигули",
                 "addr:postcode": "443902",
-                "addr:street": "СНТ Жигули",
                 "building": "house",
                 "building:levels": "1",
                 "id": "way/1481426307"
@@ -1108,15 +1068,15 @@
             "type": "Feature",
             "id": "way/1481426308",
             "properties": {
-                "timestamp": "2026-02-21T14:53:13Z",
-                "version": "1",
-                "changeset": "178862839",
+                "timestamp": "2026-02-28T04:15:28Z",
+                "version": "2",
+                "changeset": "179156857",
                 "user": "donistr",
                 "uid": "23853009",
                 "addr:city": "Самара",
                 "addr:housenumber": "737",
+                "addr:place": "СНТ Жигули",
                 "addr:postcode": "443902",
-                "addr:street": "СНТ Жигули",
                 "building": "house",
                 "building:levels": "1",
                 "id": "way/1481426308"
