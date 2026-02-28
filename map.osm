@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (2428761 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
- <bounds minlat="53.4722190" minlon="49.8379270" maxlat="53.4736740" maxlon="49.8421360"/>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (3797841 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="53.4722160" minlon="49.8377610" maxlat="53.4736710" maxlon="49.8419690"/>
  <node id="382980031" visible="true" version="4" changeset="88022186" timestamp="2020-07-15T09:19:57Z" user="lamax" uid="1860634" lat="53.4832933" lon="49.8467220"/>
  <node id="382980032" visible="true" version="4" changeset="88022186" timestamp="2020-07-15T09:19:57Z" user="lamax" uid="1860634" lat="53.4832811" lon="49.8464423"/>
  <node id="382980033" visible="true" version="2" changeset="12030609" timestamp="2012-06-26T20:31:14Z" user="Shoorick" uid="4774" lat="53.4835164" lon="49.8430785"/>
@@ -287,10 +287,6 @@
  <node id="12500523932" visible="true" version="1" changeset="161339214" timestamp="2025-01-14T10:20:45Z" user="maxlax" uid="15972813" lat="53.4721840" lon="49.8416987"/>
  <node id="13032460718" visible="true" version="1" changeset="169640745" timestamp="2025-07-28T23:03:07Z" user="aodwonder" uid="3267434" lat="53.4822808" lon="49.8424950"/>
  <node id="13032463998" visible="true" version="1" changeset="169640745" timestamp="2025-07-28T23:00:54Z" user="aodwonder" uid="3267434" lat="53.4833688" lon="49.8451144"/>
- <node id="13244585234" visible="true" version="1" changeset="173510023" timestamp="2025-10-19T20:45:40Z" user="Ozon OSM15" uid="23041867" lat="53.4735550" lon="49.8420578"/>
- <node id="13244585235" visible="true" version="1" changeset="173510023" timestamp="2025-10-19T20:45:40Z" user="Ozon OSM15" uid="23041867" lat="53.4735553" lon="49.8421464"/>
- <node id="13244585236" visible="true" version="1" changeset="173510023" timestamp="2025-10-19T20:45:40Z" user="Ozon OSM15" uid="23041867" lat="53.4734736" lon="49.8421472"/>
- <node id="13244585237" visible="true" version="1" changeset="173510023" timestamp="2025-10-19T20:45:40Z" user="Ozon OSM15" uid="23041867" lat="53.4734733" lon="49.8420586"/>
  <node id="13587210773" visible="true" version="1" changeset="178862839" timestamp="2026-02-21T14:53:13Z" user="donistr" uid="23853009" lat="53.4730813" lon="49.8391997"/>
  <node id="13587210774" visible="true" version="1" changeset="178862839" timestamp="2026-02-21T14:53:13Z" user="donistr" uid="23853009" lat="53.4730834" lon="49.8392531"/>
  <node id="13587210775" visible="true" version="1" changeset="178862839" timestamp="2026-02-21T14:53:13Z" user="donistr" uid="23853009" lat="53.4729518" lon="49.8392674"/>
@@ -699,15 +695,7 @@
   <nd ref="12500523925"/>
   <tag k="building" v="yes"/>
  </way>
- <way id="1443335827" visible="true" version="1" changeset="173510023" timestamp="2025-10-19T20:45:40Z" user="Ozon OSM15" uid="23041867">
-  <nd ref="13244585234"/>
-  <nd ref="13244585235"/>
-  <nd ref="13244585236"/>
-  <nd ref="13244585237"/>
-  <nd ref="13244585234"/>
-  <tag k="building" v="yes"/>
- </way>
- <way id="1481426299" visible="true" version="1" changeset="178862839" timestamp="2026-02-21T14:53:13Z" user="donistr" uid="23853009">
+ <way id="1481426299" visible="true" version="2" changeset="179156857" timestamp="2026-02-28T04:15:28Z" user="donistr" uid="23853009">
   <nd ref="13587210773"/>
   <nd ref="13587210774"/>
   <nd ref="13587210775"/>
@@ -715,12 +703,12 @@
   <nd ref="13587210773"/>
   <tag k="addr:city" v="Самара"/>
   <tag k="addr:housenumber" v="730"/>
+  <tag k="addr:place" v="СНТ Жигули"/>
   <tag k="addr:postcode" v="443902"/>
-  <tag k="addr:street" v="СНТ Жигули"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1481426300" visible="true" version="1" changeset="178862839" timestamp="2026-02-21T14:53:13Z" user="donistr" uid="23853009">
+ <way id="1481426300" visible="true" version="2" changeset="179156857" timestamp="2026-02-28T04:15:28Z" user="donistr" uid="23853009">
   <nd ref="13587210777"/>
   <nd ref="13587210778"/>
   <nd ref="13587210779"/>
@@ -728,12 +716,12 @@
   <nd ref="13587210777"/>
   <tag k="addr:city" v="Самара"/>
   <tag k="addr:housenumber" v="678"/>
+  <tag k="addr:place" v="СНТ Жигули"/>
   <tag k="addr:postcode" v="443902"/>
-  <tag k="addr:street" v="СНТ Жигули"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1481426301" visible="true" version="1" changeset="178862839" timestamp="2026-02-21T14:53:13Z" user="donistr" uid="23853009">
+ <way id="1481426301" visible="true" version="2" changeset="179156857" timestamp="2026-02-28T04:15:28Z" user="donistr" uid="23853009">
   <nd ref="13587210781"/>
   <nd ref="13587210782"/>
   <nd ref="13587210783"/>
@@ -741,12 +729,12 @@
   <nd ref="13587210781"/>
   <tag k="addr:city" v="Самара"/>
   <tag k="addr:housenumber" v="679"/>
+  <tag k="addr:place" v="СНТ Жигули"/>
   <tag k="addr:postcode" v="443902"/>
-  <tag k="addr:street" v="СНТ Жигули"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1481426302" visible="true" version="1" changeset="178862839" timestamp="2026-02-21T14:53:13Z" user="donistr" uid="23853009">
+ <way id="1481426302" visible="true" version="2" changeset="179156857" timestamp="2026-02-28T04:15:28Z" user="donistr" uid="23853009">
   <nd ref="13587210785"/>
   <nd ref="13587210786"/>
   <nd ref="13587210787"/>
@@ -754,12 +742,12 @@
   <nd ref="13587210785"/>
   <tag k="addr:city" v="Самара"/>
   <tag k="addr:housenumber" v="681"/>
+  <tag k="addr:place" v="СНТ Жигули"/>
   <tag k="addr:postcode" v="СНТ Жигули"/>
-  <tag k="addr:street" v="СНТ Жигули"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1481426303" visible="true" version="1" changeset="178862839" timestamp="2026-02-21T14:53:13Z" user="donistr" uid="23853009">
+ <way id="1481426303" visible="true" version="2" changeset="179156857" timestamp="2026-02-28T04:15:28Z" user="donistr" uid="23853009">
   <nd ref="13587210789"/>
   <nd ref="13587210790"/>
   <nd ref="13587210791"/>
@@ -767,12 +755,12 @@
   <nd ref="13587210789"/>
   <tag k="addr:city" v="Самара"/>
   <tag k="addr:housenumber" v="728"/>
+  <tag k="addr:place" v="СНТ Жигули"/>
   <tag k="addr:postcode" v="443902"/>
-  <tag k="addr:street" v="СНТ Жигули"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1481426304" visible="true" version="1" changeset="178862839" timestamp="2026-02-21T14:53:13Z" user="donistr" uid="23853009">
+ <way id="1481426304" visible="true" version="2" changeset="179156857" timestamp="2026-02-28T04:15:28Z" user="donistr" uid="23853009">
   <nd ref="13587210793"/>
   <nd ref="13587210794"/>
   <nd ref="13587210795"/>
@@ -780,12 +768,12 @@
   <nd ref="13587210793"/>
   <tag k="addr:city" v="Самара"/>
   <tag k="addr:housenumber" v="729"/>
+  <tag k="addr:place" v="СНТ Жигули"/>
   <tag k="addr:postcode" v="443902"/>
-  <tag k="addr:street" v="СНТ Жигули"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1481426305" visible="true" version="1" changeset="178862839" timestamp="2026-02-21T14:53:13Z" user="donistr" uid="23853009">
+ <way id="1481426305" visible="true" version="2" changeset="179156857" timestamp="2026-02-28T04:15:28Z" user="donistr" uid="23853009">
   <nd ref="13587210797"/>
   <nd ref="13587210798"/>
   <nd ref="13587210799"/>
@@ -793,12 +781,12 @@
   <nd ref="13587210797"/>
   <tag k="addr:city" v="Самара"/>
   <tag k="addr:housenumber" v="735"/>
+  <tag k="addr:place" v="СНТ Жигули"/>
   <tag k="addr:postcode" v="443902"/>
-  <tag k="addr:street" v="СНТ Жигули"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1481426306" visible="true" version="1" changeset="178862839" timestamp="2026-02-21T14:53:13Z" user="donistr" uid="23853009">
+ <way id="1481426306" visible="true" version="2" changeset="179156857" timestamp="2026-02-28T04:15:28Z" user="donistr" uid="23853009">
   <nd ref="13587248301"/>
   <nd ref="13587248302"/>
   <nd ref="13587248303"/>
@@ -806,12 +794,12 @@
   <nd ref="13587248301"/>
   <tag k="addr:city" v="Самара"/>
   <tag k="addr:housenumber" v="736"/>
+  <tag k="addr:place" v="СНТ Жигули"/>
   <tag k="addr:postcode" v="443902"/>
-  <tag k="addr:street" v="СНТ Жигули"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1481426307" visible="true" version="1" changeset="178862839" timestamp="2026-02-21T14:53:13Z" user="donistr" uid="23853009">
+ <way id="1481426307" visible="true" version="2" changeset="179156857" timestamp="2026-02-28T04:15:28Z" user="donistr" uid="23853009">
   <nd ref="13587248305"/>
   <nd ref="13587248306"/>
   <nd ref="13587248307"/>
@@ -819,12 +807,12 @@
   <nd ref="13587248305"/>
   <tag k="addr:city" v="Самара"/>
   <tag k="addr:housenumber" v="726"/>
+  <tag k="addr:place" v="СНТ Жигули"/>
   <tag k="addr:postcode" v="443902"/>
-  <tag k="addr:street" v="СНТ Жигули"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1481426308" visible="true" version="1" changeset="178862839" timestamp="2026-02-21T14:53:13Z" user="donistr" uid="23853009">
+ <way id="1481426308" visible="true" version="2" changeset="179156857" timestamp="2026-02-28T04:15:28Z" user="donistr" uid="23853009">
   <nd ref="13587248309"/>
   <nd ref="13587248310"/>
   <nd ref="13587248311"/>
@@ -832,8 +820,8 @@
   <nd ref="13587248309"/>
   <tag k="addr:city" v="Самара"/>
   <tag k="addr:housenumber" v="737"/>
+  <tag k="addr:place" v="СНТ Жигули"/>
   <tag k="addr:postcode" v="443902"/>
-  <tag k="addr:street" v="СНТ Жигули"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
