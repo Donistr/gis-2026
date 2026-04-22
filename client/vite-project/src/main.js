@@ -23,6 +23,28 @@ new Map({
         ratio: 1,
         serverType: 'geoserver'
       })
+    }),
+    new ImageLayer({
+      source: new ImageWMS({
+        url: 'http://localhost:8080/geoserver/gis/wms',
+        params: {
+          LAYERS: 'gis:roads',
+          TILED: true
+        },
+        ratio: 1,
+        serverType: 'geoserver'
+      })
+    }),
+    new ImageLayer({
+      source: new ImageWMS({
+        url: 'http://localhost:8080/geoserver/gis/wms',
+        params: {
+          LAYERS: 'gis:poi',
+          TILED: true
+        },
+        ratio: 1,
+        serverType: 'geoserver'
+      })
     })
   ],
   view: new View({
